@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Button
+comment0.text=\r\n\ Press\ it\ and\ things\ happen.\r\n\ This\ class\ is\ used\ for\ both\ the\ Undo\ and\ Submit/I\ Don't\ Know\ buttons.\ \r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/12/2018\r\n
+comment1.params=type
+comment1.target=Button(java.lang.String)
+comment1.text=\r\n\ Sets\ the\ image\ and\ type\ of\ the\ button\ based\ on\ the\ string\ provided.\r\n
+comment2.params=
+comment2.target=void\ swapType()
+comment2.text=\r\n\ If\ "Don't\ Know"\ or\ "Submit",\ changes\ it\ to\ the\ other\ type\ to\ reflect\ whether\ there\ are\ answers.\r\n
+comment3.params=
+comment3.target=void\ swapGreyStatus()
+comment3.text=\r\n\ If\ an\ "Undo"\ button,\ changes\ whether\ the\ button\ is\ greyed\ out\ to\ indicate\ whether\ it\ is\ unavailable.\r\n
+comment4.params=
+comment4.target=boolean\ returnGreyedStatus()
+comment4.text=\r\n\ Returns\ whether\ the\ button\ is\ greyed.\r\n
+numComments=5

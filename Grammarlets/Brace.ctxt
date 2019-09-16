@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Brace
+comment0.text=\r\n\ A\ depiction\ of\ the\ words\ selected\ by\ the\ user.\r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/12/2018\r\n
+comment1.params=xInit\ yInit\ c
+comment1.target=Brace(int,\ int,\ Canvas)
+comment1.text=\r\n\ Prepares\ images,\ establishes\ the\ initial\ position,\ and\ passes\ the\ world.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Follows\ the\ cursor's\ current\ X\ position\ and\ adjust\ the\ image\ accordingly.\r\n
+comment3.params=
+comment3.target=void\ initializeImages()
+comment3.text=\r\n\ Sets\ up\ the\ image\ array,\ which\ holds\ different\ braces\ of\ different\ sizes.\r\n
+comment4.params=
+comment4.target=greenfoot.Actor[]\ getWordsAbove()
+comment4.text=\r\n\ Creates\ an\ array\ of\ the\ words\ above\ the\ brace.\r\n
+comment5.params=wordList
+comment5.target=int\ getWordCount(greenfoot.Actor[])
+comment5.text=\r\n\ Gets\ the\ number\ of\ words\ above\ the\ brace\ to\ properly\ size\ the\ words\ array\ in\ getWordsAbove().\r\n
+numComments=6

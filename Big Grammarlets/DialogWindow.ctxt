@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DialogWindow
+comment0.text=\r\n\ A\ dialog.\ It\ will\ either\ welcome\ the\ user\ or\ provide\ them\ with\ information\ about\ their\ answers.\r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/6/2018\r\n
+comment1.params=type\ ak
+comment1.target=DialogWindow(java.lang.String,\ AnswerKey)
+comment1.text=\r\n\ Builds\ the\ correct\ DialogWindow\ and\ imports\ key\ variables.\r\n
+comment2.params=last
+comment2.target=java.lang.String\ getResults(boolean)
+comment2.text=\r\n\ Builds\ feedback\ for\ the\ last\ question\ based\ on\ user\ inputs.\r\n\ This\ informs\ the\ user\ of\ the\ correct\ answers\ for\ the\ problem,\ if\ they\ missed\ any.\r\n\ If\ last\ is\ true,\ an\ exit\ massage\ is\ added\ to\ the\ end.\r\n
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=AnswerWindow
+comment0.text=\r\n\ A\ window\ with\ a\ text\ box,\ a\ reasoning\ selector,\ and\ two\ buttons.\r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/12/2018\r\n
+comment1.params=select\ c
+comment1.target=AnswerWindow(java.lang.String,\ Canvas)
+comment1.text=\r\n\ Creates\ the\ main\ AnswerWindow\ panel\ and\ passes\ instance\ variables.\ Invoked\ by\ the\ createWindow\ process.\r\n
+comment2.params=select\ c
+comment2.target=void\ createWindow(java.lang.String,\ Canvas)
+comment2.text=\r\n\ Creates\ an\ instance\ of\ an\ AnswerWindow.\ \r\n\ This\ creates\ the\ frame\ and\ packs\ the\ window\ panel\ created\ by\ the\ constructor.\r\n
+numComments=3

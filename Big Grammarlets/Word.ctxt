@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Word
+comment0.text=\r\n\ A\ word\ in\ the\ canvas.\ Used\ for\ both\ passage\ and\ correction\ text.\r\n\ This\ class\ is\ essentially\ a\ placeholder\ that\ displays\ text\ imposed\ by\ the\ Canvas.\r\n\ It\ also\ passes\ text\ that\ has\ been\ selected\ by\ Braces.\r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/6/2018\r\n
+comment1.params=text
+comment1.target=Word(java.lang.String)
+comment1.text=\r\n\ Passes\ the\ text\ into\ the\ Word\ object.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getText()
+comment2.text=\r\n\ Passes\ the\ text\ back\ to\ the\ Canvas\ to\ be\ used\ in\ AnswerWindows.\r\n
+numComments=3

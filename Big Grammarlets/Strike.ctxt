@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Strike
+comment0.text=\r\n\ A\ marker\ indicating\ what\ words\ have\ already\ been\ corrected.\r\n\ \r\n\ @author\ Carlson\ Sharpless\r\n\ @version\ 0.02\ 4/6/2018\r\n
+comment1.params=xInit\ yInit\ xEnd\ correct
+comment1.target=Strike(int,\ int,\ int,\ boolean)
+comment1.text=\r\n\ Selects\ and\ scales\ the\ strike\ image.\r\n
+numComments=2
